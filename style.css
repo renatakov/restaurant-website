@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap");
+
+nav {
+  position: absolute;
+  width: 847px;
+  height: 45px;
+  left: 375px;
+  top: 30px;
+}
+
+.menulinks {
+  position: absolute;
+  width: 413px;
+  height: 19px;
+  left: 327px;
+  top: 20px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  padding-left: 12px;
+}
+a:hover {
+  color: #f16214;
+  transition: 0.5s;
+}
+
+.firstbtn {
+  position: absolute;
+  width: 80px;
+  height: 30px;
+  left: 780px;
+  top: 20px;
+  background: #f16214;
+  border: 1.5px solid #f16214;
+  box-sizing: border-box;
+  border-radius: 120px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.imgdiv {
+  position: absolute;
+  width: 958.34px;
+  height: 958.62px;
+  left: -6px;
+  top: 100px;
+}
+
+.fimg {
+  position: absolute;
+  width: 1063.31px;
+  height: 850.97px;
+  left: 870px;
+  top: 0px;
+  filter: drop-shadow(21px 17px 100px rgba(0, 0, 0, 0.3));
+  transform: rotate(0deg);
+}
+
+.bgimg {
+  position: absolute;
+  width: 958px;
+  height: 750px;
+  left: 975px;
+  top: 0px;
+  border-radius: 375px 0px 0px 375px;
+}
+
+.leaf2 {
+  position: absolute;
+  width: 166px;
+  height: 166px;
+  left: 1403px;
+  top: 650px;
+}
+
+.leaf1 {
+  position: absolute;
+  width: 188px;
+  height: 188px;
+  left: 1105px;
+  top: 237px;
+}
+
+.p1 {
+  position: absolute;
+  width: 488px;
+  height: 273px;
+  left: 374px;
+  top: 216px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 75px;
+  line-height: 91px;
+
+  color: #000000;
+}
+
+.p2 {
+  position: absolute;
+  width: 570px;
+  height: 66px;
+  left: 374px;
+  top: 564px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #888888;
+}
+
+.secbtn {
+  position: absolute;
+  width: 170px;
+  height: 50px;
+  left: 375px;
+  top: 670px;
+  border-radius: 120px;
+  border: none;
+  background: #f16214;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  color: white;
+}
+
+.p3 {
+  position: absolute;
+  top: 0px;
+  left: 30px;
+}
+
+svg {
+  position: absolute;
+  left: 125px;
+  top: 5px;
+}
+
+.socimg {
+  position: absolute;
+  width: 229px;
+  height: 40px;
+  left: 375px;
+  top: 750px;
+  padding: 5px;
+}
