@@ -28,7 +28,7 @@ a {
 }
 a:hover {
   color: #f16214;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .firstbtn {
@@ -156,4 +156,132 @@ svg {
   left: 375px;
   top: 750px;
   padding: 5px;
+}
+
+.featurediv {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  width: 1170px;
+  height: 217px;
+  left: 375px;
+  top: 950px;
+  background: #ffffff;
+  box-shadow: 0px 22px 52px rgba(0, 0, 0, 0.07);
+  border-radius: 60px 0px 60px 0px;
+}
+
+.time {
+  position: absolute;
+  width: 196px;
+  height: 97px;
+  left: 87px;
+  top: 60px;
+}
+
+.p4 {
+  position: absolute;
+  left: -40px;
+  top: 35px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.p5 {
+  position: absolute;
+  left: 10px;
+  top: 57px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: #888888;
+}
+
+.time::after {
+  position: absolute;
+  top: 60px;
+  left: 220px;
+  content: "";
+  width: 40px;
+  height: 0px;
+  border: 1px solid #575757;
+  transform: rotate(90deg);
+}
+
+.location {
+  position: absolute;
+  width: 197px;
+  height: 97px;
+  left: 487px;
+  top: 60px;
+}
+
+.p6 {
+  position: absolute;
+  left: -40px;
+  top: 35px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.p7 {
+  position: absolute;
+  left: 5px;
+  top: 57px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: #888888;
+}
+
+.location::after {
+  position: absolute;
+  top: 60px;
+  left: 220px;
+  content: "";
+  width: 40px;
+  height: 0px;
+  border: 1px solid #575757;
+  transform: rotate(90deg);
+}
+
+.call {
+  position: absolute;
+  width: 103px;
+  height: 97px;
+  left: 934px;
+  top: 60px;
+}
+
+.p8 {
+  position: absolute;
+  left: -40px;
+  top: 35px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.p9 {
+  position: absolute;
+  left: -15px;
+  top: 57px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: #888888;
 }
