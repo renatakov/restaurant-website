@@ -285,3 +285,298 @@ svg {
   line-height: 16px;
   color: #888888;
 }
+
+.sec2 {
+  position: absolute;
+  width: 1940px;
+  height: 700px;
+  left: -20px;
+  top: 1200px;
+}
+
+.p10 {
+  position: absolute;
+  width: 82px;
+  height: 17px;
+  left: 974px;
+  top: 155px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #f16214;
+}
+
+.p11 {
+  position: absolute;
+  width: 526px;
+  height: 98px;
+  left: 975px;
+  top: 181px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.p12 {
+  position: absolute;
+  width: 570px;
+  height: 139px;
+  left: 974px;
+  top: 324px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  color: #888888;
+}
+
+.thirdbtn {
+  position: absolute;
+  width: 160px;
+  height: 50px;
+  left: 975px;
+  top: 492px;
+  background: #f16214;
+  border-radius: 54px;
+  border: none;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 50%;
+  color: #ffffff;
+  text-align: center;
+}
+
+.svg2 {
+  position: absolute;
+  left: 70%;
+}
+
+.p13 {
+  position: absolute;
+  top: 5px;
+  left: 20px;
+}
+
+.sec3 {
+  position: absolute;
+  width: 1920px;
+  height: 723px;
+  left: 0px;
+  top: 1767px;
+}
+
+.serv1 {
+  position: absolute;
+  width: 370px;
+  height: 395px;
+  left: 375px;
+  top: 228px;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  border-radius: 60px 0px 60px 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.p14 {
+  position: absolute;
+  width: 56px;
+  height: 17px;
+  left: 933px;
+  top: 97px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #f16214;
+}
+
+.sech1 {
+  position: absolute;
+  width: 571px;
+  height: 49px;
+  left: 675px;
+  top: 120px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.servimg1 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 145px;
+  top: 70px;
+}
+
+.serv1 > h3 {
+  position: absolute;
+  width: 191px;
+  height: 32px;
+  left: 90px;
+  top: 150px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 32px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.serv1 > p {
+  position: absolute;
+  width: 330px;
+  height: 75px;
+  left: 20px;
+  top: 248px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+
+  text-align: center;
+
+  color: #888888;
+}
+
+.serv1:hover{
+  box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
+}
+
+.serv2 {
+  position: absolute;
+  width: 370px;
+  height: 395px;
+  left: 805px;
+  top: 225px;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  border-radius: 60px 0px 60px 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.servimg2 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 145px;
+  top: 70px;
+}
+
+.serv2 > h3 {
+  position: absolute;
+  width: 191px;
+  height: 32px;
+  left: 90px;
+  top: 150px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 32px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.serv2 > p {
+  position: absolute;
+  width: 330px;
+  height: 75px;
+  left: 20px;
+  top: 248px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+
+  text-align: center;
+
+  color: #888888;
+}
+
+.serv2:hover{
+  box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
+}
+
+.serv3 {
+  position: absolute;
+  width: 370px;
+  height: 395px;
+  left: 1235px;
+  top: 225px;
+  border: 2px solid #eeeeee;
+  box-sizing: border-box;
+  border-radius: 60px 0px 60px 0px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.servimg3 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 145px;
+  top: 70px;
+}
+
+.serv3 > h3 {
+  position: absolute;
+  width: 191px;
+  height: 32px;
+  left: 90px;
+  top: 150px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 32px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+.serv3 > p {
+  position: absolute;
+  width: 330px;
+  height: 75px;
+  left: 20px;
+  top: 248px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 160%;
+  /* or 26px */
+
+  text-align: center;
+
+  color: #888888;
+}
+
+.serv3:hover{
+  box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
+}
