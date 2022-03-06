@@ -457,7 +457,7 @@ svg {
   color: #888888;
 }
 
-.serv1:hover{
+.serv1:hover {
   box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
 }
 
@@ -517,7 +517,7 @@ svg {
   color: #888888;
 }
 
-.serv2:hover{
+.serv2:hover {
   box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
 }
 
@@ -577,6 +577,105 @@ svg {
   color: #888888;
 }
 
-.serv3:hover{
+.serv3:hover {
   box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
+}
+
+.sec4 {
+  position: absolute;
+  width: 1920px;
+  height: 1306px;
+  left: 0px;
+  top: 2490px;
+}
+
+.fourh3 {
+  position: absolute;
+  top: 97px;
+  left: 935px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(255, 153, 0);
+}
+
+.itemsh1 {
+  position: absolute;
+  top: 120px;
+  left: 784px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.product1 {
+  position: absolute;
+  width: 373px;
+  height: 405px;
+  top: 228px;
+  left: 375px;
+  border-radius: 60px 0px 60px 0px;
+  box-sizing: border-box;
+  border: 2px solid #eeeeee;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+}
+
+.product1 > img {
+  display: flex;
+  width: 371px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.sandh3 {
+  position: absolute;
+  top: 286px;
+  left: 19px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
+}
+
+.product1 > button {
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
+
+.product1 > svg {
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.fspan {
+  position: absolute;
+  top: 304px;
+  left: 335px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 13px;
+  color: #000000;
+}
+
+.secspan {
+  position: absolute;
+  top: 333px;
+  left: 306px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 13px;
+  color: #000000;
 }
