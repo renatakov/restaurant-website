@@ -679,3 +679,50 @@ svg {
   line-height: 13px;
   color: #000000;
 }
+
+.product2 {
+  position: absolute;
+  width: 370px;
+  height: 419px;
+  left: 775px;
+  top: 228px;
+  border-radius: 60px 0px 60px 0px;
+  box-sizing: border-box;
+  border: 2px solid #eeeeee;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+}
+
+.product2 > img {
+  display: flex;
+  width: 369px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.echh3 {
+  position: absolute;
+  top: 286px;
+  left: 19px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
+}
+
+.product2 > svg{
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.product2 > button{
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
