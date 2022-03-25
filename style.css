@@ -611,13 +611,13 @@ svg {
 
 .product1 {
   position: absolute;
-  width: 373px;
-  height: 405px;
+  width: 371px;
+  height: 419px;
   top: 228px;
   left: 375px;
   border-radius: 60px 0px 60px 0px;
   box-sizing: border-box;
-  border: 2px solid #eeeeee;
+  /* border: 2px solid #eeeeee; */
   box-shadow: 0 0 20px rgb(145, 145, 145);
 }
 
@@ -682,13 +682,13 @@ svg {
 
 .product2 {
   position: absolute;
-  width: 370px;
+  width: 369px;
   height: 419px;
   left: 775px;
   top: 228px;
   border-radius: 60px 0px 60px 0px;
   box-sizing: border-box;
-  border: 2px solid #eeeeee;
+  /* border: 2px solid #eeeeee; */
   box-shadow: 0 0 20px rgb(145, 145, 145);
 }
 
@@ -707,13 +707,13 @@ svg {
   font-weight: bolder;
 }
 
-.product2 > svg{
+.product2 > svg {
   position: absolute;
   left: 315px;
   top: 303px;
 }
 
-.product2 > button{
+.product2 > button {
   position: absolute;
   left: 20px;
   top: 339px;
@@ -725,4 +725,186 @@ svg {
   text-align: center;
   font-family: "Open Sans", sans-serif;
   color: #ffffff;
+}
+
+.product3 {
+  position: absolute;
+  left: 1175px;
+  top: 225px;
+  width: 370px;
+  height: 419px;
+  border-radius: 60px 0px 60px 0px;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+
+  box-sizing: border-box;
+}
+
+.product3 > img {
+  display: flex;
+  width: 369px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.product3 > svg {
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.product3 > button {
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
+
+.product4 {
+  position: absolute;
+  left: 375px;
+  top: 674px;
+  width: 370px;
+  height: 419px;
+  border-radius: 60px 0px 60px 0px;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+  box-sizing: border-box;
+}
+
+.product4 > img {
+  display: flex;
+  width: 369px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.product4 > svg {
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.product4 > button {
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
+
+.product5 {
+  position: absolute;
+  left: 775px;
+  top: 674px;
+  width: 370px;
+  height: 419px;
+  border-radius: 60px 0px 60px 0px;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+  box-sizing: border-box;
+}
+
+.product5 > img {
+  display: flex;
+  width: 369px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.product5 > svg {
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.product5 > button {
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
+
+.product6 {
+  position: absolute;
+  left: 1173px;
+  top: 674px;
+  width: 370px;
+  height: 419px;
+  border-radius: 60px 0px 60px 0px;
+  box-shadow: 0 0 20px rgb(145, 145, 145);
+  box-sizing: border-box;
+}
+
+.product6 > img {
+  display: flex;
+  width: 369px;
+  height: 276px;
+  border-radius: 45px 0px 0px 0px;
+}
+
+.product6 > svg {
+  position: absolute;
+  left: 315px;
+  top: 303px;
+}
+
+.product6 > button {
+  position: absolute;
+  left: 20px;
+  top: 339px;
+  width: 100px;
+  height: 40px;
+  border-radius: 50px;
+  border: none;
+  background: #f16214;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+}
+
+.fourddbtn {
+  position: absolute;
+  width: 190px;
+  height: 50px;
+  left: 860px;
+  top: 1156px;
+  background: #f16214;
+  border-radius: 54px;
+  border: none;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 50%;
+  color: #ffffff;
+  text-align: center;
+}
+
+.svg2 {
+  position: absolute;
+  left: 77%;
+}
+
+.p19 {
+  position: absolute;
+  top: 5px;
+  left: 12px;
 }
