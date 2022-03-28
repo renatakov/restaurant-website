@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap");
 
+html {
+  scroll-behavior: smooth;
+}
+
 nav {
   position: absolute;
   width: 847px;
@@ -907,4 +911,73 @@ svg {
   position: absolute;
   top: 5px;
   left: 12px;
+}
+
+.sec5 {
+  position: absolute;
+  width: 1370px;
+  height: 500px;
+  left: 20%;
+  top: 3796px;
+  background: url("img/269\ 2.png");
+  border-radius: 60px 0px;
+}
+
+.sec5 > h1 {
+  left: 30px;
+  top: 27px;
+  position: absolute;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 49px;
+
+  color: #ffffff;
+}
+
+.imgsec5 {
+  position: absolute;
+  left: 531px;
+  top: -120px;
+}
+
+.img1sec5 {
+  position: absolute;
+  left: 900px;
+  top: -100px;
+}
+
+.fbtnsec5 {
+  position: absolute;
+  width: 220px;
+  height: 80px;
+  left: 30px;
+  top: 140px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  background: #ffffff;
+  border-radius: 13px;
+  border: none;
+  color: #000;
+}
+
+.secbtnsec5 {
+  position: absolute;
+  width: 220px;
+  height: 80px;
+  left: 20%;
+  top: 140px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  background: #ffffff;
+  border-radius: 13px;
+  border: none;
+  color: #000;
 }
