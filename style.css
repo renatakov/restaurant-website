@@ -290,7 +290,7 @@ svg {
   color: #888888;
 }
 
-.sec2 {
+#sec2 {
   position: absolute;
   width: 1940px;
   height: 700px;
@@ -369,7 +369,7 @@ svg {
   left: 20px;
 }
 
-.sec3 {
+#sec3 {
   position: absolute;
   width: 1920px;
   height: 723px;
@@ -585,7 +585,7 @@ svg {
   box-shadow: 5px 15px 45px rgba(0, 0, 0, 0.1);
 }
 
-.sec4 {
+#sec4 {
   position: absolute;
   width: 1920px;
   height: 1306px;
@@ -913,7 +913,7 @@ svg {
   left: 12px;
 }
 
-.sec5 {
+#sec5 {
   position: absolute;
   width: 1370px;
   height: 500px;
@@ -923,7 +923,7 @@ svg {
   border-radius: 60px 0px;
 }
 
-.sec5 > h1 {
+#sec5 > h1 {
   left: 30px;
   top: 27px;
   position: absolute;
@@ -980,4 +980,119 @@ svg {
   border-radius: 13px;
   border: none;
   color: #000;
+}
+
+#sec6 {
+  position: absolute;
+  width: 1941px;
+  height: 754px;
+  left: -21px;
+  top: 4656px;
+}
+
+#sec6 > h3 {
+  position: absolute;
+  width: 81px;
+  height: 17px;
+  left: 920px;
+  top: 97px;
+
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #f16214;
+}
+
+#sec6 > h1 {
+  position: absolute;
+  width: 409px;
+  height: 49px;
+  left: 756px;
+  top: 120px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+}
+
+.imgsec61 {
+  position: absolute;
+  width: 383.12px;
+  height: 373.21px;
+  left: 21px;
+  top: 32px;
+}
+
+.secimgsec6 {
+  position: absolute;
+  width: 569px;
+  height: 483px;
+  left: 975px;
+  top: 193px;
+}
+
+.wrapper {
+  position: absolute;
+  width: 570px;
+  height: 308px;
+  left: 375px;
+  top: 287px;
+}
+
+.slider-container {
+  overflow: hidden;
+}
+
+.slider-track {
+  display: flex;
+}
+
+.slider-item {
+  height: 100px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #888888;
+}
+
+.nextbtn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 95px;
+  top: 245px;
+  border: 1.5px solid #858585;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.svgsec61{
+  position: absolute;
+  left: 10px;
+  top: 20px;
+}
+
+.prevbtn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 165px;
+  top: 245px;
+  border: 1.5px solid #858585;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #f16214;
+}
+
+.svgsec62{
+  position: absolute;
+  left: 10px;
+  top: 20px;
 }
