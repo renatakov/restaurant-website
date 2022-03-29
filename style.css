@@ -63,7 +63,7 @@ a:hover {
 
 .fimg {
   position: absolute;
-  width: 1063.31px;
+  width: 1033.31px;
   height: 850.97px;
   left: 870px;
   top: 0px;
@@ -73,7 +73,7 @@ a:hover {
 
 .bgimg {
   position: absolute;
-  width: 958px;
+  width: 928px;
   height: 750px;
   left: 975px;
   top: 0px;
@@ -1197,10 +1197,142 @@ svg {
   color: #888888;
 }
 
-.socimg1{
+.socimg1 {
   position: absolute;
   width: 229px;
   height: 40px;
   left: 375px;
   top: 278px;
+}
+
+.opening-res {
+  position: absolute;
+  width: 217px;
+  height: 165px;
+  left: 674px;
+  top: 106px;
+}
+
+.opening-res > h3 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.opening-res > p {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+  color: #888888;
+}
+
+.user-links {
+  position: absolute;
+  width: 124px;
+  height: 229px;
+  left: 974px;
+  top: 106px;
+}
+
+.user-links > h3 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.user-links > a {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+  color: #888888;
+}
+
+.contact-us {
+  position: absolute;
+  width: 271px;
+  height: 235px;
+  left: 1274px;
+  top: 106px;
+}
+
+.contact-us > h3 {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 150%;
+  color: #000000;
+}
+
+.contact-us > p {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 200%;
+  color: #888888;
+}
+
+.contact-us > input {
+  position: absolute;
+  width: 180px;
+  height: 40px;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 200%;
+  color: #aaaaaa;
+  border-radius: 10px;
+  border: none;
+}
+
+.contact-us > button {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 140px;
+  top: 224px;
+  background: #f16214;
+  border-radius: 10px;
+  border: none;
+}
+
+.contact-us > button > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.elem {
+  position: absolute;
+  width: 1170px;
+  height: 0px;
+  left: 375px;
+  top: 402px;
+  border: 1.2px solid #dddddd;
+}
+
+.lastp {
+  position: absolute;
+  width: 299px;
+  height: 26px;
+  left: 811px;
+  top: 410px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 170%;
+  color: #888888;
 }
